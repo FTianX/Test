@@ -1,0 +1,20 @@
+git上传至githup:
+首先将远程githup的仓库克隆到本地：git clone https://github.com/ftx-java/Test.git
+将要push的文件放到clone下来的仓库中
+git add java.txt
+git commit -m '提交描述'
+git push
+
+git上传至gitee：
+首先将远程githup的仓库克隆到本地：git clone https://github.com/ftx-java/Test.git
+将要push的文件放到clone下来的仓库中
+重新在克隆下来的仓库中git bash here
+在命令行输入：git pull https://gitee.com/assessment_algorithms_team/HIT-HT.git
+git add java.txt
+git commit -m '提交描述'
+git push
+
+学习资料：
+http://marklodato.github.io/visual-git-guide/index-zh-cn.html
+https://github.com/geeeeeeeeek/git-recipes/wiki/4.1-%E5%9B%BE%E8%A7%A3-Git-%E5%91%BD%E4%BB%A4
+
