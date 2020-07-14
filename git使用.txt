@@ -1,20 +1,23 @@
-gitÉÏ´«ÖÁgithup:
-Ê×ÏÈ½«Ô¶³ÌgithupµÄ²Ö¿â¿ËÂ¡µ½±¾µØ£ºgit clone https://github.com/ftx-java/Test.git
-½«ÒªpushµÄÎÄ¼ş·Åµ½cloneÏÂÀ´µÄ²Ö¿âÖĞ
+gitä¸Šä¼ è‡³githup:
+åœ¨æœ¬åœ°å»ºç«‹ä»“åº“ï¼šgit init
+å°†è¦ä¸Šä¼ çš„ä»£ç åŠ å…¥åˆ°æœ¬åœ°ä»“åº“ä¸­ï¼š
 git add java.txt
-git commit -m 'Ìá½»ÃèÊö'
+git commit -m 'æäº¤æè¿°'
+å»ºç«‹æœ¬åœ°ä»“åº“ä¸githubé“¾æ¥ï¼š
+git remote add origin https://github.com/ftx-java/Python-Test.git
+å°†æœ¬åœ°ä»“åº“ä¸Šä¼ è‡³github:
+git push -u origin master
+
+gitä¸Šä¼ è‡³giteeï¼š
+é¦–å…ˆå°†è¿œç¨‹githupçš„ä»“åº“å…‹éš†åˆ°æœ¬åœ°ï¼šgit clone https://github.com/ftx-java/Test.git
+å°†è¦pushçš„æ–‡ä»¶æ”¾åˆ°cloneä¸‹æ¥çš„ä»“åº“ä¸­
+é‡æ–°åœ¨å…‹éš†ä¸‹æ¥çš„ä»“åº“ä¸­git bash here
+åœ¨å‘½ä»¤è¡Œè¾“å…¥ï¼šgit pull https://gitee.com/assessment_algorithms_team/HIT-HT.git
+git add java.txt
+git commit -m 'æäº¤æè¿°'
 git push
 
-gitÉÏ´«ÖÁgitee£º
-Ê×ÏÈ½«Ô¶³ÌgithupµÄ²Ö¿â¿ËÂ¡µ½±¾µØ£ºgit clone https://github.com/ftx-java/Test.git
-½«ÒªpushµÄÎÄ¼ş·Åµ½cloneÏÂÀ´µÄ²Ö¿âÖĞ
-ÖØĞÂÔÚ¿ËÂ¡ÏÂÀ´µÄ²Ö¿âÖĞgit bash here
-ÔÚÃüÁîĞĞÊäÈë£ºgit pull https://gitee.com/assessment_algorithms_team/HIT-HT.git
-git add java.txt
-git commit -m 'Ìá½»ÃèÊö'
-git push
-
-Ñ§Ï°×ÊÁÏ£º
+å­¦ä¹ èµ„æ–™ï¼š
 http://marklodato.github.io/visual-git-guide/index-zh-cn.html
 https://github.com/geeeeeeeeek/git-recipes/wiki/4.1-%E5%9B%BE%E8%A7%A3-Git-%E5%91%BD%E4%BB%A4
 
